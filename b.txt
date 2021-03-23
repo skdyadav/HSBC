@@ -1,0 +1,7 @@
+This is new HSBC project
+Welcome to all
+public static void main(String[] args)
+{ 
+   system.out.println("Welcome to my world");
+   
+ }  
